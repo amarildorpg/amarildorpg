@@ -1,10 +1,15 @@
 # Olá 👋, eu sou Amarildo Silva
 
-### 🚀 Desenvolvedor Backend \| Java • Spring Boot • APIs REST
+### 🚀 Full Stack Developer
 
-Apaixonado por tecnologia e aprendizado contínuo. Sempre estudando novas
-formas de construir **APIs eficientes, sistemas escaláveis e código
-limpo**.
+💻 Desenvolvedor Full Stack com experiência em:
+
+- **Backend:** Java, Spring Boot, APIs REST
+- **Frontend:** JavaScript, React
+- **Outras tecnologias:** PHP, Delphi
+- **Banco de dados:** MySQL / PostgreSQL
+
+🔥 Apaixonado por resolver problemas e construir aplicações completas, do backend ao frontend.
 
 ------------------------------------------------------------------------
 
