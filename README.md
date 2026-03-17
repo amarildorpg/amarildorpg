@@ -9,15 +9,13 @@ limpo**.
 ------------------------------------------------------------------------
 
 ## 👀 Visualizações do Perfil
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarildorpg&label=Profile views&color=0e75b6&style=flat" alt="amarildorpg" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=amarildorpg&label=Profile%20views&color=0e75b6&style=flat)
 
 ------------------------------------------------------------------------
 
 ## 🏆 Conquistas no GitHub
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarildorpg" alt="amarildorpg" /></a> </p>
-
+![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=amarildorpg)
 <p align="left"> <a href="https://twitter.com/amarildorpg" target="blank"><img src="https://img.shields.io/twitter/follow/amarildorpg?logo=twitter&style=for-the-badge" alt="amarildorpg" /></a> </p>
 
 ------------------------------------------------------------------------
