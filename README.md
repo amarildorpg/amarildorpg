@@ -2,12 +2,23 @@
 
 ### 🚀 Full Stack Developer
 
-💻 Desenvolvedor Full Stack com experiência em:
+💻 Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações completas.
 
-- **Backend:** Java, Spring Boot, APIs REST
-- **Frontend:** JavaScript, React
-- **Outras tecnologias:** PHP, Delphi
-- **Banco de dados:** MySQL / PostgreSQL
+🔹 **Backend**
+- Java
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+
+🔹 **Frontend**
+- JavaScript
+- React
+- HTML
+- CSS
+
+🔹 **Outras tecnologias**
+- PHP
+- Delphi
 
 🔥 Apaixonado por resolver problemas e construir aplicações completas, do backend ao frontend.
 
