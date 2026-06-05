@@ -71,23 +71,20 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amarildorpg&layout=compact&theme=tokyonight&locale=pt-br" 
-    alt="Linguagens mais usadas" />
-</p>
+### 📈 Gráfico de atividades
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=amarildorpg&theme=tokyo-night)
 
-<p>
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amarildorpg&show_icons=true&theme=tokyonight&locale=pt-br" 
-    alt="Estatísticas do GitHub" />
-</p>
+### 👁️ Visualizações do perfil
+![Profile Views](https://komarev.com/ghpvc/?username=amarildorpg&color=blueviolet&style=flat)
 
-<p>
-  <img 
-    src="https://streak-stats.demolab.com?user=amarildorpg&theme=tokyonight&locale=pt_BR" 
-    alt="Sequência de contribuições" />
-</p>
+### ⭐ Seguidores
+![GitHub followers](https://img.shields.io/github/followers/amarildorpg?style=social)
+
+### 📦 Repositórios públicos
+![Repos públicos](https://img.shields.io/badge/dynamic/json?color=blue&label=Reposit%C3%B3rios%20p%C3%BAblicos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Famarildorpg)
+
+### 🧑‍💻 Perfil
+[![GitHub](https://img.shields.io/badge/GitHub-amarildorpg-181717?style=for-the-badge&logo=github)](https://github.com/amarildorpg)
 
 ------------------------------------------------------------------------
 
