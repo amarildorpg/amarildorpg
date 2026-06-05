@@ -71,11 +71,23 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarildorpg&show_icons=true&locale=en&layout=compact" alt="amarildorpg" /></p>
+<p>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amarildorpg&layout=compact&theme=tokyonight&locale=pt-br" 
+    alt="Linguagens mais usadas" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarildorpg&show_icons=true&locale=en" alt="amarildorpg" /></p>
+<p>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amarildorpg&show_icons=true&theme=tokyonight&locale=pt-br" 
+    alt="Estatísticas do GitHub" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarildorpg&" alt="amarildorpg" /></p>
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=amarildorpg&theme=tokyonight&locale=pt_BR" 
+    alt="Sequência de contribuições" />
+</p>
 
 ------------------------------------------------------------------------
 
